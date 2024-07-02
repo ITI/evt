@@ -1,3 +1,3 @@
-module github.com/iti/vrtime
+module github.com/iti/evt/vrtime
 
 go 1.19
