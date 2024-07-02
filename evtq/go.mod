@@ -1,3 +1,3 @@
-module github.com/iti/evt/evtm
+module github.com/iti/evt/evtq
 
 go 1.20
